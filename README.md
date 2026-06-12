@@ -1,7 +1,7 @@
 # 📦 E-Commerce Supply Chain & Delivery Performance Optimization
 
 ## 📊 Project Assets
-* **Live Interactive Dashboard:** [👉 Click Here to Interact with the Live Dashboard](INSERT_YOUR_NOVYPRO_OR_MAVEN_PORTFOLIO_LINK_HERE)
+* **Live Interactive Dashboard:** [👉 Click Here to Interact with the Live Dashboard](https://github.com/anuragN2107/E-Commerce-Supply-Chain-Optimization/blob/main/Dashboard/supply_chain_dashboard.pbix)
 * **Python Code Workspace:** [Browse Jupyter Notebook Data Wrangling Code](./Notebooks/)
 * **Raw Dataset Source:** [Olist Brazilian E-Commerce Dataset (Kaggle Public Access)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
